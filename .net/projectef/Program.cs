@@ -5,7 +5,7 @@ using proyectoef;
 var builder = WebApplication.CreateBuilder(args);
 
 // builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
-builder.Services.AddSqlServer<TareasContext>("Data Source=LAPTOP-GDIRKTMC\\MSSQLSERVER01; Initial Catalog=TareasDb; TrustServerCertificate=True");
+builder.Services.AddSqlServer<TareasContext>(builder.Configuration.GetConnectionString("cnTareas"));
 
 var app = builder.Build();
 

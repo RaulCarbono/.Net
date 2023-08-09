@@ -23,11 +23,15 @@ public class Tarea
 
     public DateTime FechaCreacion { get; set; }
 
+
     public virtual Categoria Categoria { get; set; }
 
     [NotMapped]
 
     public string Resumen { get; set; }
+
+    public string Comentarios { get; set; }
+
 }
 
 public enum Prioridad

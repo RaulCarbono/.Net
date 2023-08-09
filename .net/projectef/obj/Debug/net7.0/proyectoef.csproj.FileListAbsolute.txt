@@ -64,3 +64,8 @@ C:\Users\Frontend\Desktop\Programacion\.net\projectef\obj\Debug\net7.0\refint\pr
 C:\Users\Frontend\Desktop\Programacion\.net\projectef\obj\Debug\net7.0\proyectoef.pdb
 C:\Users\Frontend\Desktop\Programacion\.net\projectef\obj\Debug\net7.0\proyectoef.genruntimeconfig.cache
 C:\Users\Frontend\Desktop\Programacion\.net\projectef\obj\Debug\net7.0\ref\proyectoef.dll
+C:\Users\Frontend\Desktop\Programacion\.net\projectef\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Frontend\Desktop\Programacion\.net\projectef\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Frontend\Desktop\Programacion\.net\projectef\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Frontend\Desktop\Programacion\.net\projectef\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Frontend\Desktop\Programacion\.net\projectef\bin\Debug\net7.0\System.CodeDom.dll
