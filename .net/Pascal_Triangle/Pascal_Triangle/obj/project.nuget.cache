@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUlJrmXan44VrA7+cirx1+5ooU9k1zPrKDEQQIt4zgqjicaxSVzGiLUjEj9iS3zp/VY7kF+TH9i+VLXEE9Hnig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frontend\\Desktop\\Programacion\\.net\\Pascal_Triangle\\Pascal_Triangle\\Pascal_Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frontend\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Frontend\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Frontend\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Frontend\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
